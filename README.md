@@ -1,11 +1,13 @@
 # Ghost Sellz Hotmail Checker
 ---
-## at 20 stars ima release a v4 which has more features!
+## at 20 stars ima release a v3 which has more features!
 dm me on discord if there are any bugs :)
 
 my discord is ghost_sellz
 ---
-
+##
+- released V2
+---
 ## Features
 - Multithreaded login attempts for efficient processing.
 - Proxy support for safer and more reliable requests.
