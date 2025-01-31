@@ -1,6 +1,9 @@
 # Ghost Sellz Hotmail Checker
 ---
-## at 10 stars ima release a v2 which has more features and is faster!
+## at 20 stars ima release a v4 which has more features!
+dm me on discord if there are any bugs :)
+
+my discord is ghost_sellz
 ---
 
 ## Features
