@@ -12,9 +12,7 @@ class MailHub:
         
         MailHub Lib 1.0
         Mail Checkers
-        Dev --> ISellStuff
-
-        Want anything added? Add me on discord isell_termed
+        Dev --> ghost sellz
         
         """
 
