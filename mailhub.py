@@ -12,7 +12,7 @@ class MailHub:
         
         MailHub Lib 1.0
         Mail Checkers
-        Dev --> ghost sellz
+        Dev --> Not-ISellStuff
         
         """
 
