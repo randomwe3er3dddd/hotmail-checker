@@ -5,6 +5,8 @@ dm me on discord if there are any bugs :)
 my discord is ghost_sellz
 ---
 ##
+- released v1
+- released V2
 - released V3
 ---
 ## Features
